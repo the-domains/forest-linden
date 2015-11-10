@@ -1,0 +1,23 @@
+name: Forest Linden
+favicon: null
+layout_spectrum: 0.7966635040938854
+typography_spectrum: 0.4498531185090542
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7690585181117058
+  lightness: 0.26117055187933147
+  saturation: 0.2679148339666426
+  rhythmicContrast: 0.8544144441839308
+purpose: []
